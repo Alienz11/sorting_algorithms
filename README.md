@@ -1,0 +1,1 @@
+**This folder/directory displays all the under-pinnings of Sorting Algoriths and the Big Oh Notation in C programming language**
